@@ -81,13 +81,13 @@ The transition from persistent HPV infection to CC is characterized by an active
 Evidence Attribution Matrix
 
 Key Finding / Data Point	Source Attribution
-Spatiotemporal transition (Normal \rightarrow HSIL \rightarrow CC)	Guo et al. (Paper 1)
-Loss of TCN1/TFF3 and gain of S100A7/CALML5 markers	Guo et al. (Paper 1)
-Treg/Th1-like ratio shift (>1 in CC samples)	Qu et al. (Paper 2)
-Paradoxical MHC-I/Antigen processing upregulation	Qu et al. (Paper 2)
-Identification of DC_LAMP3 as a mature, tolerogenic subset	Qu et al. (Paper 2)
-CEACAM5-CD1D interaction lack in DC_LAMP3 vs. cDC1	Qu et al. (Paper 2)
-Rarity and non-expansion of Nex Re CD8+ T cells	Qu et al. (Paper 2)
-Efficacy of Epacadostat + ICB in TC-1 mouse model	Qu et al. (Paper 2)
-Bioinformatic Workflow (Seurat v3.1.4, CellRanger v5.0.1)	Qu et al. (Paper 2)
-Ki67, GZMB, TNF-α, and CXCL13 therapeutic metrics	Qu et al. (Paper 2)
+# Spatiotemporal transition (Normal \rightarrow HSIL \rightarrow CC)	Guo et al. (Paper 1)
+# Loss of TCN1/TFF3 and gain of S100A7/CALML5 markers	Guo et al. (Paper 1)
+# Treg/Th1-like ratio shift (>1 in CC samples)	Qu et al. (Paper 2)
+# Paradoxical MHC-I/Antigen processing upregulation	Qu et al. (Paper 2)
+# Identification of DC_LAMP3 as a mature, tolerogenic subset	Qu et al. (Paper 2)
+# CEACAM5-CD1D interaction lack in DC_LAMP3 vs. cDC1	Qu et al. (Paper 2)
+# Rarity and non-expansion of Nex Re CD8+ T cells	Qu et al. (Paper 2)
+# Efficacy of Epacadostat + ICB in TC-1 mouse model	Qu et al. (Paper 2)
+# Bioinformatic Workflow (Seurat v3.1.4, CellRanger v5.0.1)	Qu et al. (Paper 2)
+# Ki67, GZMB, TNF-α, and CXCL13 therapeutic metrics	Qu et al. (Paper 2)
