@@ -1,0 +1,21 @@
+[project]
+name = "sc-rnaseq-cervical-carcinoma-immune-remodelling"
+version = "0.1.0"
+description = "Single-cell RNA-seq analysis of cervical carcinoma tumor immune microenvironment"
+readme = "README.md"
+requires-python = ">=3.11"
+
+dependencies = [
+    "scanpy",
+    "anndata",
+    "numpy",
+    "pandas",
+    "scipy",
+    "matplotlib",
+    "seaborn",
+    "gseapy",
+    "python-igraph",
+    "leidenalg",
+    "jupyterlab",
+    "ipykernel"
+]
